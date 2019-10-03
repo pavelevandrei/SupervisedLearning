@@ -5,3 +5,6 @@
 https://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python/
 
 http://faculty.marshall.usc.edu/gareth-james/
+
+
+https://jakevdp.github.io/PythonDataScienceHandbook/index.html
