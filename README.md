@@ -8,3 +8,6 @@ http://faculty.marshall.usc.edu/gareth-james/
 
 
 https://jakevdp.github.io/PythonDataScienceHandbook/index.html
+
+
+http://bazhenov.me/blog/2012/07/21/classification-performance-evaluation.html
