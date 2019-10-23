@@ -11,3 +11,6 @@ https://jakevdp.github.io/PythonDataScienceHandbook/index.html
 
 
 http://bazhenov.me/blog/2012/07/21/classification-performance-evaluation.html
+
+
+https://snowplowanalytics.com/blog/2013/08/12/towards-universal-event-analytics-building-an-event-grammar/
