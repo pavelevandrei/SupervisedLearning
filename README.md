@@ -14,3 +14,6 @@ http://bazhenov.me/blog/2012/07/21/classification-performance-evaluation.html
 
 
 https://snowplowanalytics.com/blog/2013/08/12/towards-universal-event-analytics-building-an-event-grammar/
+
+https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/loss-functions/mean-squared-logarithmic-error
+
