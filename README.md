@@ -18,3 +18,6 @@ https://snowplowanalytics.com/blog/2013/08/12/towards-universal-event-analytics-
 https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/loss-functions/mean-squared-logarithmic-error
 
 https://neurohive.io/ru/osnovy-data-science/jepoha-razmer-batcha-iteracija/
+
+
+https://habr.com/ru/post/480348/
